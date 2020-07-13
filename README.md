@@ -2,16 +2,16 @@
 Neural Style Transfer model using pre-trained VGG19, for creating art like images
 
 ### Style Input
-![Style](style_4.png)
+![Style](style_4.jpg)
 
 ### Stylized Mountains
-![Mountains](20170110004814_IMG_5719.jpg) -> ![Mountains](mountains_stylized.jpg)
+![Mountains](20170110004814_IMG_5719.jpg) -> ![Mountains](mountains_stylized.png)
 
 ### Noisy Stylization
-![Mountains](noisy_mountains.jpg) -> ![Mountains](stylized_2.jpg)
+![Mountains](noisy_mountains.jpg) -> ![Mountains](stylized_2.png)
 
 ### Indoor Image Stylization
-![Billiards](Scattered_billiards_balls.jpg) -> ![Billiards](stylized_billiards.jpg)
+![Billiards](Scattered_billiards_balls.jpg) -> ![Billiards](stylized_billiards.png)
 
 ### Outdoor Image Stylization
-![Billiards](IMG20200413154412.jpg) -> ![Billiards](stylized_outdoors.jpg)
+![Billiards](IMG20200413154412.jpg) -> ![Billiards](stylized_outdoors.png)
