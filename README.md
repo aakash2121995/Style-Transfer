@@ -5,13 +5,8 @@ Neural Style Transfer model using pre-trained VGG19, for creating art like image
 ![Style](style_4.jpg)
 
 ### Stylized Mountains
-![Mountains](20170110004814_IMG_5719.JPG) -> ![Mountains](mountains_stylized.png)
+<img src="20170110004814_IMG_5719.JPG" width="40%"> <img src="mountains_stylized.png" width="40%">.
 
 ### Noisy Stylization
-![Mountains](noisy_mountains.jpg) -> ![Mountains](stylized_2.png)
+<img src="noisy_mountains.jpg" width="40%"> <img src="stylized_2.png" width="40%">.
 
-### Indoor Image Stylization
-![Billiards](Scattered_billiards_balls.jpg) -> ![Billiards](stylized_billiards.png)
-
-### Outdoor Image Stylization
-![Billiards](IMG20200413154412.jpg) -> ![Billiards](stylized_outdoors.png)
