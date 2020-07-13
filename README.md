@@ -5,7 +5,7 @@ Neural Style Transfer model using pre-trained VGG19, for creating art like image
 ![Style](style_4.jpg)
 
 ### Stylized Mountains
-![Mountains](20170110004814_IMG_5719.jpg) -> ![Mountains](mountains_stylized.png)
+![Mountains](20170110004814_IMG_5719.JPG) -> ![Mountains](mountains_stylized.png)
 
 ### Noisy Stylization
 ![Mountains](noisy_mountains.jpg) -> ![Mountains](stylized_2.png)
